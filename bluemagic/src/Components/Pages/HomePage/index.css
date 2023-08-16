@@ -1,0 +1,86 @@
+.products {
+    width: 100%;
+
+
+  }
+
+  .products ul {
+    display: grid;
+    grid-template-columns: repeat(
+      auto-fit,
+      minmax(
+        500px,
+        1fr
+      )
+    );
+    gap: 1rem;
+  }
+
+  .products li {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, .1);
+    border-radius: 4px;
+    background: #111;
+    color: #fff;
+    padding: 6rem;
+    
+  }
+
+  .products h3 {
+    margin: 0;
+  }
+
+  .products span {
+    font-size: 1rem;
+    opacity: .9;
+  }
+
+  .products img {
+    border-radius: 4px;
+    width: 100%;
+    aspect-ratio: 16/9;
+    display: block;
+    object-fit: cover;
+    background: #fff;
+  }
+
+  .btn-container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .btn{padding: 1.3em 3em;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  button:hover {
+    background-color: #23c483;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+  }
+  
+  button:active {
+    transform: translateY(-1px);
+  }
+
+  body{
+    background-image: url(https://www.visitcentroamerica.com/wp-content/uploads/2020/02/ver-centroamerica-costa-rica-isla-tortuga-03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
