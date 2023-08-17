@@ -6,7 +6,13 @@ import Card from "../../Card";
 import Pagination from "./Pagination";
 import { useState } from "react";
 import Header from "../../Header";
-import CarouselFadeExample from "../../Carousel";
+import Footer from "../../Footer";
+
+
+
+data.push( )
+
+
 
 
 
@@ -22,7 +28,7 @@ const [pagina, setPagina] = useState(0);
 
     <div>
         <Header/>
-        <CarouselFadeExample/>
+
       <div className="products">
         <Link to="/DetailsPage/:travelId">
           <ul className="products ul">
@@ -33,6 +39,7 @@ const [pagina, setPagina] = useState(0);
         </Link>
       </div>
       <Pagination pagina={pagina} setPagina={setPagina}/>
+      <Footer/>
     </div>
   );
 };

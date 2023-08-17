@@ -1,11 +1,14 @@
-import React from 'react';
+import React, { useEffect, useState } from "react";
+
+import CardDetails from "../../Card/CardDetails";
+
 
 const DetailsPage = () => {
-    return (
-        <div>
-            Details
-        </div>
-    );
+  return (
+    <div>
+      <CardDetails />
+    </div>
+  );
 };
 
 export default DetailsPage;
