@@ -14,6 +14,8 @@
       )
     );
     gap: 1rem;
+    margin-top: 5%;
+
   }
 
   .products li {
@@ -80,7 +82,5 @@
   }
 
   body{
-    background-image: url(https://3.bp.blogspot.com/-Lw4lYj3Mb3I/T3QBHz2GHWI/AAAAAAAALd0/6cL4TKkkGOk/s1600/paraisos+tropicales,playas,belleza+%281%29.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: lightcyan;
   }

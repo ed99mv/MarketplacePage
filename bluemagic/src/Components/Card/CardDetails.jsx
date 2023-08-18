@@ -21,21 +21,22 @@ const CardDetails = () => {
 
   return (
     <div className="allCard">
-      
-
       {selectedProducts && (
-
-     
-              <div class="cardD">
-                <h1 class="cardS-title">{selectedProducts.title}</h1>
+        <div class="cardD">
+          <h1 class="cardS-title">{selectedProducts.title}</h1>
           <div class="cardD-image">
             <img src={selectedProducts.img} alt="" />
           </div>
           <p class="cardD-body">{selectedProducts.description}</p>
           <p>{selectedProducts.price}</p>
           <strong>{selectedProducts.include}</strong>
-         <ul> <li>{selectedProducts.services}</li></ul>
-        </div> )}
+          <ul>
+            {selectedProducts.services.map((product) => {
+              return <li>{product}</li>;
+            })}
+          </ul>
+        </div>
+      )}
     </div>
   );
 };

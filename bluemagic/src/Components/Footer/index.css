@@ -5,6 +5,7 @@ footer{
     left:0;
     width:100%;
     background-color: rgba(128, 128, 128, 0.783);
-    
+    position: relative;
+    margin-top: auto;
   }
   

@@ -7,14 +7,13 @@
  
   .card {
     padding: 20px;
-    width: 330px;
+    width: 353px;
     min-height: 370px;
     border-radius: 20px;
     background: #e8e8e8;
     box-shadow: 5px 5px 6px #dadada,
                  -5px -5px 6px #f6f6f6;
     transition: 0.4s;
-    
   }
 
   .cardS {
@@ -56,7 +55,7 @@
     float: right;
     margin: 28px 0 0 18px;
     font-size: 13px;
-    color: #636363;
+    color: lightgrey;
   }
   
   .by-name {
@@ -68,3 +67,6 @@ a:active {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+}
