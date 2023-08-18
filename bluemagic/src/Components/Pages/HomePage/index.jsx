@@ -15,6 +15,8 @@ const HomePage = () => {
   //0*3=0, 0*3+pagesize=3
   //1*3=3, 1*3+pagesize=6
 
+
+
   return (
     <div>
 

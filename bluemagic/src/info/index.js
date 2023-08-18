@@ -12,7 +12,7 @@ const data = [
       "Tour de Snorkel. ",
       "Avistamiento de cetáceos (si la naturaleza lo permite). ",
       "Almuerzo. ",
-      "Atendimiento al cliente. ",
+      "Atención al cliente. ",
     ],
     price:"₡16 000 por persona",
     img: "https://phantom-elmundo.unidadeditorial.es/b42c4aabf756df93e6099c4fa00bf0b2/f/jpg/assets/multimedia/imagenes/2020/10/14/16026729969504.jpg",
@@ -31,7 +31,7 @@ const data = [
       "Tour de Snorkel. ",
       "Avistamiento de cetáceos (si la naturaleza lo permite). ",
       "Almuerzo. ",
-      "Atendimiento al cliente. ",
+      "Atención al cliente. ",
     ],
     price:"₡25 000 por persona",
     img: "https://www.toursparadise.com/wp-content/uploads/2022/07/isla-tortuga-tour-copia.jpg"
@@ -50,7 +50,7 @@ const data = [
       "Tour de Snorkel. ",
       "Avistamiento de cetáceos (si la naturaleza lo permite). ",
       "Almuerzo. ",
-      "Atendimiento al cliente. ",
+      "Atención al cliente. ",
     ],
     price:"₡18 000 por persona",
     img: "https://farm9.staticflickr.com/8517/8415710424_67decbdd05.jpg"
@@ -69,7 +69,7 @@ const data = [
       "Tour de Snorkel. ",
       "Avistamiento de cetáceos (si la naturaleza lo permite). ",
       "Almuerzo. ",
-      "Atendimiento al cliente. ",
+      "Atención al cliente. ",
     ],
     price:"₡20 000 por persona",
     img: "https://iguanagocr.com/wp-content/uploads/2022/08/Isla-Gitana-%E2%80%93-Puntarenas-Costa-Rica-IguanaGo-1.jpg"
@@ -85,7 +85,7 @@ const data = [
       "Transporte marítimo.",
       "Botellas de agua. ",
       "Frutas. ",
-      "Atendimiento al cliente. ",
+      "Atención al cliente. ",
     ],
     price:"₡15 000 por persona",
     img: "https://www.osaexplorecr.com/wp-content/uploads/2021/05/tour-pesca-deportiva-mediodia.jpg"
@@ -101,7 +101,7 @@ const data = [
       "Transporte marítimo.",
       "Botellas de agua. ",
       "Frutas. ",
-      "Atendimiento al cliente. ",
+      "Atención al cliente. ",
     ],
     price:"₡17 000 por persona",
     img:"https://www.viajabonito.mx/wp-content/uploads/2020/06/5_playas_bioluminicentes_en_mexico_02.jpg",
@@ -117,7 +117,7 @@ const data = [
       "Transporte marítimo.",
       "Botellas de agua. ",
       "Frutas. ",
-      "Atendimiento al cliente. ",
+      "Atención al cliente. ",
     ],
     price:"₡17 000 por persona",
     img:"https://www.topworldimages.com/photos/Chira-Island3.jpg"
@@ -133,7 +133,7 @@ const data = [
       "Transporte marítimo.",
       "Botellas de agua. ",
       "Frutas. ",
-      "Atendimiento al cliente. ",
+      "Atención al cliente. ",
     ],
     price:"₡17 000 por persona",
     img:"https://www.uniclidroid.com/wp-content/uploads/2022/01/Cabinas-atardecer-6.jpg"
@@ -152,7 +152,7 @@ const data = [
         "Tour de Snorkel. ",
         "Avistamiento de cetáceos (si la naturaleza lo permite). ",
         "Almuerzo. ",
-        "Atendimiento al cliente. ",
+        "Atención al cliente. ",
     ],
     price:"₡17 000 por persona",
     img: "https://i.vimeocdn.com/video/1064460554-4d3f25474975916bba8a023c08bd903cb11160c25151abeae867e5546ce35238-d_640"
@@ -171,7 +171,7 @@ const data = [
         "Tour de Snorkel. ",
         "Avistamiento de cetáceos (si la naturaleza lo permite). ",
         "Almuerzo. ",
-        "Atendimiento al cliente. ",
+        "Atención al cliente. ",
     ],
     price:"₡17 000 por persona",
     img:"https://scontent.fsyq2-1.fna.fbcdn.net/v/t39.30808-6/340025729_2491084187716527_4257034104623668986_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=vTEaKk4_W4gAX_JQJET&_nc_ht=scontent.fsyq2-1.fna&oh=00_AfAqW6iTO7_DW3IKlNZG9N-S75WnFEqiM_bIACiC8rmFFw&oe=64E0BCF1"
@@ -190,7 +190,7 @@ const data = [
         "Tour de Snorkel. ",
         "Avistamiento de cetáceos (si la naturaleza lo permite). ",
         "Almuerzo. ",
-        "Atendimiento al cliente. ",
+        "Atención al cliente. ",
     ],
     price:"₡17 000 por persona",
     img:"https://www.vamosaturistear.com/wp-content/uploads/2021/01/2-20-1024x576.jpg"

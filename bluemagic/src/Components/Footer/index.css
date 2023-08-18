@@ -1,11 +1,47 @@
-footer{
-    height:50px;
-    line-height:50px;
-    bottom:0;
-    left:0;
-    width:100%;
-    background-color: rgba(128, 128, 128, 0.783);
-    position: relative;
-    margin-top: auto;
-  }
-  
+.footer {
+  background-color: #222;
+  color: #fff;
+  padding: 20px 0;
+  width: 100%;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo img {
+  width: 100px;
+  height: auto;
+}
+
+.contact-info a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.social-icon {
+  color: #fff;
+  font-size: 24px;
+  margin-right: 10px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+  color: #007bff;
+}
+
+.footer-text {
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* Font Awesome styles (you'll need to include the Font Awesome CSS) */
+.fa {
+  font-size: inherit;
+}

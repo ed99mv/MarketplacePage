@@ -6,6 +6,7 @@ import "./cardDetails.css";
 const CardDetails = () => {
   const { travelId } = useParams();
   const [travelsData, setTravelsData] = useState(data);
+  const [inputArray, setInputArray] = useState([]);
 
   const id = Number(travelId);
 

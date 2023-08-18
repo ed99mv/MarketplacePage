@@ -14,10 +14,10 @@ const Header = () => {
         </button>
 
         <Nav.Item as="li" className="link">
-          <Nav.Link href="/">BM Home</Nav.Link>
+          <Nav.Link href="/"><button className="btnCreateForm"><span>Tours</span></button></Nav.Link>
         </Nav.Item>
         <Nav.Item as="li" className="link">
-          <Nav.Link href="AddFomrPage/">Crear Form</Nav.Link>
+          <Nav.Link href="AddFomrPage/"><button className="btnCreateForm"><span>Create Form</span></button></Nav.Link>
         </Nav.Item>
         <Nav.Item as="li">
           <Nav.Link eventKey="link-2" className="socials">
@@ -32,7 +32,7 @@ const Header = () => {
                     xmlns="http://www.w3.org/2000/svg"
                     type="button"
                     target="_blank"
-                    onClick={(e) => {
+                    onClickCapture={(e) => {
                       e.preventDefault();
                       window.location.href =
                         "https://www.instagram.com/bluetours_/?igshid=MzRlODBiNWFlZA%3D%3D";
